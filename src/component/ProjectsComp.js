@@ -21,7 +21,7 @@ const obj = [
     projectName: "Portfolio",
     description: "A portfolio website to showcase my work and skills.",
     language: "React.js, React Router, CSS",
-    linkRedirect: "port-folio-harshit-git-main-harshit-sainis-projects-e5f9f208.vercel.app",
+    linkRedirect: "https://port-folio-harshit-git-main-harshit-sainis-projects-e5f9f208.vercel.app",
     githubprojectLink: "https://github.com/HarshitSaini777/PortFolioHarshit",
     githubLink: "https://github.com/HarshitSaini777",
     photo: "/photo5.png"
