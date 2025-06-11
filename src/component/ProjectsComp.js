@@ -371,7 +371,7 @@ function ProjectComp() {
                         paddingTop: "10px",
                       }}
                     >
-                      <p style={{ fontSize: "1.5rem" }}>Nitin's Project</p>
+                      <p style={{ fontSize: "1.5rem" }}>My Project</p>
                       <a
                         target="_blank"
                         href={v.linkRedirect}
