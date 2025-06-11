@@ -21,8 +21,8 @@ const obj = [
     projectName: "Portfolio",
     description: "A portfolio website to showcase my work and skills.",
     language: "React.js, React Router, CSS",
-    linkRedirect: "",
-    githubprojectLink: "https://github.com/HarshitSaini777",
+    linkRedirect: "port-folio-harshit-git-main-harshit-sainis-projects-e5f9f208.vercel.app",
+    githubprojectLink: "https://github.com/HarshitSaini777/PortFolioHarshit",
     githubLink: "https://github.com/HarshitSaini777",
     photo: "/photo5.png"
   },
@@ -31,8 +31,8 @@ const obj = [
     description: "A platform where we can save our bookmarks.",
     language: "Nextjs,expressjs",
     linkRedirect: "#",
-    githubprojectLink: "https://github.com/Nitin-lohumi/BookMarks",
-    githubLink: "https://github.com/Nitin-lohumi",
+    githubprojectLink: "https://github.com",
+    githubLink: "https://github.com",
     photo: "/bookmarkImage.jpg"
   },
   {
@@ -40,8 +40,8 @@ const obj = [
     description: "Chat securely with people.",
     language: "JavaScript, Express.js",
     linkRedirect: "https://chatapp-s9gx.onrender.com/",
-    githubprojectLink: "https://github.com/Nitin-lohumi/chatAPP",
-    githubLink: "https://github.com/Nitin-lohumi",
+    githubprojectLink: "https://github.com",
+    githubLink: "https://github.com",
     photo: "/chat.png"
   },
   {
@@ -50,7 +50,7 @@ const obj = [
     language: "JavaScript, PHP, SQL",
     linkRedirect: "https://chatapp-s9gx.onrender.com/",
     githubprojectLink: "https://chatapp-s9gx.onrender.com/",
-    githubLink: "https://github.com/Nitin-lohumi",
+    githubLink: "https://github.com",
     photo: "/chatRealTime.png"
   },
   {
@@ -58,8 +58,8 @@ const obj = [
     description: "A simple news application.",
     language: "React JS",
     linkRedirect: "nitinnewsapp.vercel.app",
-    githubprojectLink: "https://github.com/Nitin-lohumi/News_latest",
-    githubLink: "https://github.com/Nitin-lohumi",
+    githubprojectLink: "https://github.com",
+    githubLink: "https://github.com",
     photo: "/news.png"
   },*/
 ];
