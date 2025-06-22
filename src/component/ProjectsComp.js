@@ -12,7 +12,7 @@ const obj = [
     projectName: "MEDICARE",
     description: "A platform for predicting multiple diseases using AI",
     language: "Python, Streamlit",
-    linkRedirect: "",
+    linkRedirect: "https://mutiple-disease-prediction.streamlit.app",
     githubprojectLink: "https://github.com/HarshitSaini777/MDP",
     githubLink: "https://github.com/HarshitSaini777",
     photo: "/photo4.png.jpg"
